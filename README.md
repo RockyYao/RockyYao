@@ -14,23 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+| [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/github.png" alt="github logo" width="34">](https://github.com/RockyYao) |  [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/dev.png" alt="dev logo" width="24">] |  [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/twitter.png" alt="twitter logo" width="34">] |  [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/gitlab.png" alt="gitlab logo" width="24">] |  [<img src="https://github.com/Amchuz/Amchuz/blob/master/linkedin.jpeg" alt="linkedin logo" width="24">] |  [<img src="https://github.com/Amchuz/Amchuz/blob/master/gmail.jpeg" alt="gmail logo" width="24">](gowithhappy123@gmail.com)
+|---|---|---|---|---|---|
 
+----
 
-.
+#### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> How about some stats ?
+  
+.    
+   
+![Prify Philip's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vcjmhg&hide=["stars"]&show_icons=true)
 
-wave Hello World ! 
-heart Programming | black_heart Reading | blue_heart Anime
+-------
 
-I am a second-year graduate student at the University of Electronic Science and Technology of China. I love Java and trying to find more about Full Stack Web Development and Java Web.
-
-telescope I am currently using java to develop the SkyWalking webflux webclient plugin.
-seedling I’m currently learning APM | Full Stack Web development
-dancers I’m looking to collaborate on Web Development Projects 
-speech_balloon Ask me about anything. I will try to help you as much as I can.
-zap Quote: There is always time. You just have to find it.
-mailbox How to reach me:
-github logo	dev logo	twitter logo	gitlab logo	linkedin logo	gmail logo
- How about some stats ?
-.
-
-Prify Philip's GitHub Stats
+```
